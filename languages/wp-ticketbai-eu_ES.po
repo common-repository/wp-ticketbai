@@ -1,0 +1,589 @@
+# TicketBai Plugin	
+# Copyright 2022 ticketbai
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: TicketBai WordPress\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2023-04-16 14:09+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: eu_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: FTBAI_custom_order.php:13
+msgid "Invoice Available"
+msgstr "Available Invoice"
+
+#: FTBAI_custom_order.php:14
+msgid "Click here to download invoice"
+msgstr "Egin klik hemen faktura deskargatzeko"
+
+#: FTBAI_custom_order.php:21 FTBAI_custom_order.php:62
+msgid "Tbai / Invoice PDF"
+msgstr "Tbai / PDF Invoice"
+
+#: FTBAI_custom_order.php:49 FTBAI_facturas.php:69
+msgid "Download Invoice"
+msgstr "Faktura deskargatu"
+
+#: FTBAI_custom_order.php:55 FTBAI_facturas.php:100
+msgid "Generate Invoice"
+msgstr "Sortu faktura"
+
+#: FTBAI_custom_order.php:63
+msgid "Invoice Status"
+msgstr "Fakturaren egoera"
+
+#: FTBAI_custom_order.php:106
+msgid "Orders and Invoices"
+msgstr "Eskaerak eta Fakturak"
+
+#: FTBAI_custom_users.php:29
+msgid "Select type of invoice Individual / Company"
+msgstr "Hautatu faktura mota Pertsona / Enpresa"
+
+#: FTBAI_custom_users.php:44
+msgid "Company Name"
+msgstr "Enpresaren izena"
+
+#: FTBAI_custom_users.php:49
+msgid "Enter your CIF or DNI"
+msgstr "Sartu zure CIF edo DNI"
+
+#: FTBAI_custom_users.php:50
+msgid "NIF/CIF/NIE"
+msgstr "NIF/CIF/NIE"
+
+#: FTBAI_custom_users.php:90
+msgid "We need your <b>tax number</b> to be able to invoice your company"
+msgstr ""
+"Zure <b>zenbaki fiskala</b> behar dugu zure enpresari fakturatu ahal izateko"
+
+#: FTBAI_custom_users.php:95 FTBAI_custom_users.php:116
+#: FTBAI_custom_users.php:122
+msgid "You must enter document number NIF/CIF/NIE"
+msgstr "Debe introducir el número de documento NIF/CIF/NIE"
+
+#: FTBAI_custom_users.php:101
+msgid ""
+"The <b>NIF/CIF/NIE</b> belongs to a person, it is not a company. Leave "
+"company name blank"
+msgstr ""
+"<b>NIF/CIF/NIE</b> pertsona batena da, ez da enpresa bat. Utzi enpresaren "
+"izena hutsik"
+
+#: FTBAI_custom_users.php:103
+msgid ""
+"The <b>NIF/CIF/NIE</b> is from a company. You need write the name of the "
+"company."
+msgstr ""
+"<b>NIF/CIF/NIE</b> enpresa batekoa da. Enpresaren izena idatzi behar duzu."
+
+#: FTBAI_custom_users.php:105
+msgid "The <b>NIF/CIF/NIE</b> is not correct"
+msgstr "<b>NIF/CIF/NIE</b> ez da zuzena"
+
+#: FTBAI_custom_users.php:132
+msgid "CIF"
+msgstr "CIF"
+
+#: FTBAI_custom_users.php:147
+msgid "Fiscal Number NIF/CIF/NIE"
+msgstr "NIF / CIF / NIE Fiscal Number"
+
+#: FTBAI_facturas.php:15
+msgid "book"
+msgstr "liburua"
+
+#: FTBAI_facturas.php:16
+msgid "books"
+msgstr "iburuak"
+
+#: FTBAI_facturas.php:21
+msgid "No invoices"
+msgstr "Fakturarik gabe"
+
+#: FTBAI_facturas.php:25
+msgid "All"
+msgstr "Denak"
+
+#: FTBAI_facturas.php:26 FTBAI_facturas.php:80
+msgid "Issued"
+msgstr "Jaulkipenatuak"
+
+#: FTBAI_facturas.php:27 FTBAI_facturas.php:78
+msgid "Pending"
+msgstr "Zintzilik"
+
+#: FTBAI_facturas.php:28 FTBAI_facturas.php:74
+msgid "Canceled"
+msgstr "Anulada"
+
+#: FTBAI_facturas.php:29
+msgid "Complete"
+msgstr "Osoak"
+
+#: FTBAI_facturas.php:30
+msgid "Simplified"
+msgstr "Sinplifikatuak"
+
+#: FTBAI_facturas.php:31
+msgid "Rectifications"
+msgstr "Zuzentzaileak"
+
+#: FTBAI_facturas.php:76 FTBAI_facturas.php:99
+msgid "Cancel Order"
+msgstr "Eskaera ezeztatu"
+
+#: FTBAI_facturas.php:88 FTBAI_facturas.php:113
+msgid "VIEW"
+msgstr "Ikusi"
+
+#: FTBAI_facturas.php:90 FTBAI_facturas.php:115
+msgid "SEND EMAIL"
+msgstr "Bidali Mezu Elektronikoa"
+
+#: FTBAI_facturas.php:90 FTBAI_facturas.php:115
+msgid "SEND"
+msgstr "Bidali"
+
+#: FTBAI_facturas.php:95
+msgid "Retrieve Order"
+msgstr "Berreskuratu Agindua"
+
+#: FTBAI_facturas.php:105
+msgid "Create Corrective"
+msgstr "Sortu zuzentzailea"
+
+#: FTBAI_facturas.php:109
+msgid "Cancel Invoice"
+msgstr "Utzi faktura"
+
+#: FTBAI_facturas.php:114
+msgid "XML"
+msgstr ""
+
+#: FTBAI_facturas.php:142
+msgid "Corrective Of:"
+msgstr "Honen zuzenketa:"
+
+#: FTBAI_facturas.php:147
+msgid "Rectified in:"
+msgstr "Honetan zuzendua:"
+
+#: FTBAI_facturas.php:208 FTBAI_facturas.php:218
+msgid "TbaiQR | Invoice PDF | Status"
+msgstr "Tbai / PDF Invoice"
+
+#: FTBAI_facturas.php:209 FTBAI_facturas.php:219
+msgid "Date Email Sent"
+msgstr "Fecha envío email"
+
+#: FTBAI_facturas.php:210 FTBAI_facturas.php:220
+msgid "Date Invoice"
+msgstr "Data Faktura"
+
+#: FTBAI_facturas.php:211 FTBAI_facturas.php:221
+msgid "Type"
+msgstr "Mota"
+
+#: FTBAI_facturas.php:212 FTBAI_facturas.php:222
+msgid "Total"
+msgstr "Guztira"
+
+#: FTBAI_facturas.php:213 FTBAI_facturas.php:223
+msgid "Order"
+msgstr "Agindu"
+
+#: FTBAI_facturas.php:214
+msgid "Actions"
+msgstr "Acciones"
+
+#: FTBAI_facturas.php:377
+msgid "All dates"
+msgstr "Data guztiak"
+
+#: FTBAI_facturas.php:397
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: FTBAI_facturas.php:402
+msgid "Filter"
+msgstr "Iragazkia"
+
+#: FTBAI_facturas.php:420
+msgid "Search"
+msgstr "Bilatu"
+
+#: FTBAI_index.php:125 FTBAI_index.php:130 FTBAI_index.php:135
+#: FTBAI_index.php:140 FTBAI_index.php:145 FTBAI_index.php:150
+#: FTBAI_index.php:155
+msgid "Change made successfully"
+msgstr "Aldaketa behar bezala egin da"
+
+#: FTBAI_index.php:166
+msgid ""
+"With the TicketBAI test mode activated, no issued invoice will be posted"
+msgstr ""
+"TicketBAI proba modua aktibatuta dagoenez, ez da igorritako fakturarik "
+"argitaratuko"
+
+#: FTBAI_index.php:167
+msgid "mode"
+msgstr "modu"
+
+#: FTBAI_index.php:167
+msgid "TICKETBAI TEST ENVIRONMENT ENABLED"
+msgstr "TIKETBAI PROBEN INGURUNEA GAITATU"
+
+#: FTBAI_index.php:167
+msgid "Click here to register for free"
+msgstr "Egin klik hemen doan erregistratzeko"
+
+#: FTBAI_index.php:191
+msgid "WP Invoices TicketBAI"
+msgstr "WP Fakturak TicketBAI"
+
+#: FTBAI_index.php:309
+msgid "Invoices"
+msgstr "Fakturak"
+
+#: FTBAI_index.php:310 wp-ticketbai.php:68
+msgid "Settings"
+msgstr "Ezarpenak"
+
+#: FTBAI_index.php:311
+msgid "Avanced"
+msgstr "Aurreratua"
+
+#: FTBAI_index.php:312
+msgid "Register"
+msgstr "Izena eman"
+
+#: FTBAI_index.php:313
+msgid "Reports"
+msgstr "Informes"
+
+#: FTBAI_index.php:330
+msgid "NIF Identification"
+msgstr "NIF Identifikazioa"
+
+#: FTBAI_index.php:335
+msgid "APIKey Password"
+msgstr "APKey pasahitza"
+
+#: FTBAI_index.php:342
+msgid "VALIDATE APIKEY"
+msgstr "BALIDATU APIKEY"
+
+#: FTBAI_index.php:342
+msgid "PRESENTIAL VERIFICATION"
+msgstr "BEHARREKO EGIAZTAPENA"
+
+#: FTBAI_index.php:363
+msgid "Issue invoice when status is changed"
+msgstr "Emitir factura cuando el estado cambia"
+
+#: FTBAI_index.php:366
+msgid "No (Admin has to manually issue)"
+msgstr "No (El administrador tiene que emitir manualmente)"
+
+#: FTBAI_index.php:367
+msgid ""
+"Processing or Completed (They are issued when the client makes the VISA or "
+"Cash on Delivery payment)"
+msgstr ""
+"Procesando o Completado  (Se emiten cuando el cliente realiza el pago VISA o "
+"Contra reembolso)"
+
+#: FTBAI_index.php:368
+msgid ""
+"Completed (Issued when the administrator changes the status to Completed)"
+msgstr ""
+"Completado (Se emiten cuando el administrador cambia el estado a Completado)"
+
+#: FTBAI_index.php:372
+msgid "Send invoice automatically"
+msgstr "Enviar factura automaticamente"
+
+#: FTBAI_index.php:375 FTBAI_index.php:419 FTBAI_index.php:453
+msgid "No"
+msgstr "Ezetz"
+
+#: FTBAI_index.php:376
+msgid "Yes, send email"
+msgstr "Si, Enviar Email"
+
+#: FTBAI_index.php:380
+msgid "Send invoice copy to email"
+msgstr "Enviar copia de la factura al correo electrónico"
+
+#: FTBAI_index.php:385
+msgid "enter email"
+msgstr "Introduzca Email"
+
+#: FTBAI_index.php:392
+msgid ""
+"They are issued automatically, when a new order arrives with status "
+"PROCESSING"
+msgstr "Automatikoki igortzen dira, eskaera berri bat PROZESATZEN"
+
+#: FTBAI_index.php:394
+msgid ""
+"When issuing the invoice, it is sent to the customer's email automatically. "
+"The option to canceled the invoice will not be available."
+msgstr ""
+"Al emitir la factura, esta se envía al correo electrónico del cliente de "
+"forma automática. La opción de cancelar la factura no estará disponible."
+
+#: FTBAI_index.php:398
+msgid "Maximum amount for Simplified Invoices"
+msgstr "Importe máximo para Facturas Simplificadas"
+
+#: FTBAI_index.php:403
+msgid "Enter amount"
+msgstr "Introduzca importe"
+
+#: FTBAI_index.php:410
+msgid ""
+"If the amount of the order exceeds the maximum established for Simplified "
+"Invoices, the identification of the client NIF/CIF/NIE will be required."
+msgstr ""
+"Si el importe del pedido supera el máximo establecido para las Facturas "
+"Simplificadas, se requerirá la identificación del cliente NIF/CIF/NIE."
+
+#: FTBAI_index.php:414
+msgid "Show NIF/CIF/NIE fields"
+msgstr "Muestra NIF/CIF/NIE"
+
+#: FTBAI_index.php:417
+msgid "Always Required"
+msgstr "Siempre Requerido"
+
+#: FTBAI_index.php:418
+msgid "Yes"
+msgstr "Si"
+
+#: FTBAI_index.php:425
+msgid ""
+"If you do not show the NIF/CIF/NIE field, all invoices will be generated as "
+"SIMPLIFIED INVOICE."
+msgstr ""
+"Si no muestra el campo NIF/CIF/NIE, todas las facturas se generarán como "
+"FACTURA SIMPLIFICADA."
+
+#: FTBAI_index.php:427
+msgid ""
+"To make sales in the EU, the Canary Islands, Ceuta or Melilla you need to "
+"show NIF/CIF/NIE"
+msgstr ""
+"Para realizar ventas en la UE, Canarias, Ceuta o Melilla es necesario "
+"presentar NIF/CIF/NIE"
+
+#: FTBAI_index.php:432
+msgid "Foreign operation"
+msgstr "Operación extranjera"
+
+#: FTBAI_index.php:435
+msgid "Delivery Goods (Sale of products)"
+msgstr "Entrega Mercancías (Venta de productos)"
+
+#: FTBAI_index.php:436
+msgid "Provision of services (Only Spain)"
+msgstr "Prestación de servicios (Solo España)"
+
+#: FTBAI_index.php:442
+msgid ""
+"For sales of Goods/Products in the Canary Islands, Ceuta or Melilla you must "
+"configure VAT 0 on the products of those areas within WOOCOMMERCE"
+msgstr ""
+"Para ventas de Bienes/Productos en Canarias, Ceuta o Melilla debe configurar "
+"IVA 0 en los productos de esas zonas dentro de WOOCOMMERCE"
+
+#: FTBAI_index.php:444
+msgid ""
+"The provision of services is not available for the EU, the Canary Islands, "
+"Ceuta or Melilla"
+msgstr ""
+"La prestación de servicios no está disponible para la UE, Canarias, Ceuta o "
+"Melilla"
+
+#: FTBAI_index.php:450
+msgid "My company is registered in ROI (Intra-Community Operations)"
+msgstr "Mi empresa está registrada en ROI (Operaciones Intracomunitarias)"
+
+#: FTBAI_index.php:454
+msgid "Yes, my company is in ROI"
+msgstr "Sí, mi empresa está en ROI"
+
+#: FTBAI_index.php:460
+msgid ""
+"Companies registered in ROI that provide or receive services in EU states"
+msgstr ""
+"Empresas registradas en ROI que prestan o reciben servicios en estados de la "
+"UE"
+
+#: FTBAI_index.php:472
+msgid ""
+"Enter your details to sign up for the free trial of our WP TicketBAI plugin."
+msgstr ""
+"Sartu zure datuak gure WP TicketBAI pluginaren doako proban erregistratzeko."
+
+#: FTBAI_index.php:472
+msgid "You can also use this form to contact us."
+msgstr "Inprimaki hau ere erabil dezakezu gurekin harremanetan jartzeko."
+
+#: FTBAI_index.php:477
+msgid "Name and surname"
+msgstr "Izena eta abizenak"
+
+#: FTBAI_index.php:482
+msgid "DNI/NIF"
+msgstr "DNI/NIF"
+
+#: FTBAI_index.php:487
+msgid "Phone"
+msgstr "Telefonoa"
+
+#: FTBAI_index.php:492
+msgid "Email"
+msgstr "E-posta"
+
+#: FTBAI_index.php:497
+msgid "Message"
+msgstr "Mezua"
+
+#: FTBAI_index.php:511
+msgid "Check more information about the WP-TBAI plugin in"
+msgstr "Consulta más información sobre el plugin WP-TBAI en"
+
+#: FTBAI_index.php:513
+msgid "If you need a complete ERP to manage your WooCommerce and TicketBai"
+msgstr "Si necesitas un ERP completo para gestionar tu WooCommerce y TicketBai"
+
+#: FTBAI_index.php:529
+msgid "Exercise"
+msgstr "Ejercicio"
+
+#: FTBAI_index.php:541
+msgid "Periodo"
+msgstr "Periodo"
+
+#: FTBAI_index.php:544
+msgid "All Exercise"
+msgstr "Todo el Ejercicio"
+
+#: FTBAI_index.php:545 FTBAI_index.php:546 FTBAI_index.php:547
+#: FTBAI_index.php:548
+msgid "Trimester"
+msgstr "Trimestre"
+
+#: FTBAI_index.php:550
+msgid "January"
+msgstr "Enero"
+
+#: FTBAI_index.php:551
+msgid "February"
+msgstr "Febrero"
+
+#: FTBAI_index.php:552
+msgid "March"
+msgstr "Marzo"
+
+#: FTBAI_index.php:553
+msgid "April"
+msgstr "Abril"
+
+#: FTBAI_index.php:554
+msgid "May"
+msgstr "Mayo"
+
+#: FTBAI_index.php:555
+msgid "June"
+msgstr "Junio"
+
+#: FTBAI_index.php:556
+msgid "July"
+msgstr "Julio"
+
+#: FTBAI_index.php:557
+msgid "August"
+msgstr "Agosto"
+
+#: FTBAI_index.php:558
+msgid "September"
+msgstr "Septiembre"
+
+#: FTBAI_index.php:559
+msgid "Octuber"
+msgstr "Octubre"
+
+#: FTBAI_index.php:560
+msgid "November"
+msgstr "Noviembre"
+
+#: FTBAI_index.php:561
+msgid "December"
+msgstr "Diciembre"
+
+#: FTBAI_index.php:567
+msgid "GENERATE REPORT OF INVOICES ISSUED"
+msgstr "GENERAR INFORME FACTURAS EMITIDAS"
+
+#: FTBAI_procesos.php:127
+msgid "CLICK HERE TO DOWNLOAD CSV FILE"
+msgstr "CLICK HERE TO DOWNLOAD CSV FILE"
+
+#: FTBAI_procesos.php:420 FTBAI_procesos.php:433
+msgid "not available for sale"
+msgstr "no disponible para la venta"
+
+#: FTBAI_procesos.php:438
+msgid "Country not available for sale"
+msgstr "Herrialdea ez dago salgai"
+
+#: FTBAI_procesos.php:478 FTBAI_procesos.php:516 FTBAI_procesos.php:555
+msgid "The sale is EXEMPT from VAT and has products with VAT"
+msgstr ""
+
+#: wp-ticketbai.php:57
+msgid "Invoices TicketBAI"
+msgstr "Fakturak TicketBAI"
+
+#~ msgid "Processing or Completed"
+#~ msgstr "Procesando o Completado"
+
+#~ msgid "Completed"
+#~ msgstr "Completado"
+
+#~ msgid "Yes, issue"
+#~ msgstr "Si, Emitir"
+
+#~ msgid "Cancel"
+#~ msgstr "Ezeztatu"
+
+#~ msgid "<div style=\"min-width:200px;\">TbaiQR | Invoice PDF | Status</div>"
+#~ msgstr "<div style=\"min-width:200px;\">TbaiQR | Faktura PDF | Status</div>"
+
+#~ msgid "Yes, issue invoice automatically"
+#~ msgstr "Bai, igorri faktura automatikoki"
+
+#~ msgid "Yes, send invoice automatically"
+#~ msgstr "Si, enviar la factura automaticamente"
+
+#~ msgid "Invoices TicketBAI PDF"
+#~ msgstr "Fakturak TicketBAI PDF"

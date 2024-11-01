@@ -1,0 +1,358 @@
+# TicketBai Plugin	
+# Copyright 2022 ticketbai
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"TicketBai WordPress\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2022-09-24 15:18+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.1.1\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: FTBAI_custom_order.php:12
+msgid "Invoice Available"
+msgstr ""
+
+#: FTBAI_custom_order.php:13
+msgid ""
+"Click here to download "
+"invoice number:"
+msgstr ""
+
+#: FTBAI_custom_order.php:20
+#: FTBAI_custom_order.php:44
+msgid "Tbai / Invoice PDF"
+msgstr ""
+
+#: FTBAI_custom_order.php:37
+#: FTBAI_facturas.php:47
+msgid "Download Invoice"
+msgstr ""
+
+#: FTBAI_custom_order.php:45
+msgid "Invoice Status"
+msgstr ""
+
+#: FTBAI_custom_order.php:78
+msgid "Orders and Invoices"
+msgstr ""
+
+#: FTBAI_custom_users.php:23
+msgid "Company Name"
+msgstr ""
+
+#: FTBAI_custom_users.php:26
+msgid ""
+"Enter your CIF or DNI"
+msgstr ""
+
+#: FTBAI_custom_users.php:27
+msgid "NIF/CIF/NIE"
+msgstr ""
+
+#: FTBAI_custom_users.php:55
+msgid "The NIF/CIF/NIE <b>"
+msgstr ""
+
+#: FTBAI_custom_users.php:59
+msgid "CIF"
+msgstr ""
+
+#: FTBAI_custom_users.php:75
+msgid ""
+"Fiscal Number NIF/CIF/NIE"
+msgstr ""
+
+#: FTBAI_facturas.php:10
+msgid "book"
+msgstr ""
+
+#: FTBAI_facturas.php:11
+msgid "books"
+msgstr ""
+
+#: FTBAI_facturas.php:16
+msgid "No invoices"
+msgstr ""
+
+#: FTBAI_facturas.php:20
+msgid "All"
+msgstr ""
+
+#: FTBAI_facturas.php:21
+#: FTBAI_facturas.php:58
+msgid "Issued"
+msgstr ""
+
+#: FTBAI_facturas.php:22
+#: FTBAI_facturas.php:56
+msgid "Pending"
+msgstr ""
+
+#: FTBAI_facturas.php:23
+msgid "Canceled"
+msgstr ""
+
+#: FTBAI_facturas.php:24
+msgid "Complete"
+msgstr ""
+
+#: FTBAI_facturas.php:25
+msgid "Simplified"
+msgstr ""
+
+#: FTBAI_facturas.php:26
+msgid "Rectifications"
+msgstr ""
+
+#: FTBAI_facturas.php:52
+msgid "Cancel"
+msgstr ""
+
+#: FTBAI_facturas.php:54
+#: FTBAI_facturas.php:74
+msgid "Cancel Order"
+msgstr ""
+
+#: FTBAI_facturas.php:66
+#: FTBAI_facturas.php:83
+msgid "VIEW"
+msgstr ""
+
+#: FTBAI_facturas.php:70
+msgid "Retrieve Order"
+msgstr ""
+
+#: FTBAI_facturas.php:75
+msgid "Generate Invoice"
+msgstr ""
+
+#: FTBAI_facturas.php:80
+msgid "Create Corrective"
+msgstr ""
+
+#: FTBAI_facturas.php:81
+msgid "Cancel Invoice"
+msgstr ""
+
+#: FTBAI_facturas.php:99
+msgid "Corrective Of:"
+msgstr ""
+
+#: FTBAI_facturas.php:104
+msgid "Rectified in:"
+msgstr ""
+
+#: FTBAI_facturas.php:126
+msgid ""
+"<div style=\"min-"
+"width:200px;\">TbaiQR | "
+"Invoice PDF | Status</"
+"div>"
+msgstr ""
+
+#: FTBAI_facturas.php:127
+msgid "Date Invoice"
+msgstr ""
+
+#: FTBAI_facturas.php:128
+msgid "Type"
+msgstr ""
+
+#: FTBAI_facturas.php:129
+msgid "Total"
+msgstr ""
+
+#: FTBAI_facturas.php:130
+msgid "Order"
+msgstr ""
+
+#: FTBAI_facturas.php:273
+msgid "All dates"
+msgstr ""
+
+#: FTBAI_facturas.php:293
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: FTBAI_facturas.php:298
+msgid "Filter"
+msgstr ""
+
+#: FTBAI_facturas.php:315
+msgid "Search"
+msgstr ""
+
+#: FTBAI_index.php:45
+msgid ""
+"With the TicketBAI test "
+"mode activated, no "
+"issued invoice will be "
+"posted"
+msgstr ""
+
+#: FTBAI_index.php:46
+msgid "mode"
+msgstr ""
+
+#: FTBAI_index.php:46
+msgid ""
+"TICKETBAI TEST "
+"ENVIRONMENT ENABLED"
+msgstr ""
+
+#: FTBAI_index.php:46
+msgid ""
+"Click here to register "
+"for free"
+msgstr ""
+
+#: FTBAI_index.php:77
+msgid ""
+"Change made successfully"
+msgstr ""
+
+#: FTBAI_index.php:88
+msgid ""
+"WP Invoices TicketBAI"
+msgstr ""
+
+#: FTBAI_index.php:196
+msgid "Invoices"
+msgstr ""
+
+#: FTBAI_index.php:197
+#: wp-ticketbai.php:52
+msgid "Settings"
+msgstr ""
+
+#: FTBAI_index.php:198
+msgid "Avanced"
+msgstr ""
+
+#: FTBAI_index.php:199
+msgid "Register"
+msgstr ""
+
+#: FTBAI_index.php:216
+msgid "NIF Identification"
+msgstr ""
+
+#: FTBAI_index.php:221
+msgid "APIKey Password"
+msgstr ""
+
+#: FTBAI_index.php:228
+msgid "VALIDATE APIKEY"
+msgstr ""
+
+#: FTBAI_index.php:228
+msgid ""
+"PRESENTIAL VERIFICATION"
+msgstr ""
+
+#: FTBAI_index.php:242
+msgid ""
+"Issue invoice when "
+"status is changed to "
+"Processing"
+msgstr ""
+
+#: FTBAI_index.php:245
+msgid "No"
+msgstr ""
+
+#: FTBAI_index.php:246
+msgid ""
+"Yes, issue invoice "
+"automatically"
+msgstr ""
+
+#: FTBAI_index.php:252
+msgid ""
+"They are issued "
+"automatically, when a "
+"new order arrives with "
+"status PROCESSING, or "
+"when manually changing "
+"the status of an "
+"existing order."
+msgstr ""
+
+#: FTBAI_index.php:262
+msgid ""
+"Enter your details to "
+"sign up for the free "
+"trial of our WP "
+"TicketBAI plugin."
+msgstr ""
+
+#: FTBAI_index.php:262
+msgid ""
+"You can also use this "
+"form to contact us."
+msgstr ""
+
+#: FTBAI_index.php:267
+msgid "Name and surname"
+msgstr ""
+
+#: FTBAI_index.php:272
+msgid "DNI/NIF"
+msgstr ""
+
+#: FTBAI_index.php:277
+msgid "Phone"
+msgstr ""
+
+#: FTBAI_index.php:282
+msgid "Email"
+msgstr ""
+
+#: FTBAI_index.php:287
+msgid "Message"
+msgstr ""
+
+#: wp-ticketbai.php:41
+msgid "Invoices TicketBAI"
+msgstr ""
